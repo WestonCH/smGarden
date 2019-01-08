@@ -37,8 +37,3 @@ docker run -d -p $API_PORT:8080 --name $CONTAINER_NAME $IMAGE_NAME
 
 #删除 Dockerfile 文件
 #rm -f Dockerfile
---------------------- 
-作者：天生我才毕有用 
-来源：CSDN 
-原文：https://blog.csdn.net/njzcx/article/details/80979157 
-版权声明：本文为博主原创文章，转载请附上博文链接！
